@@ -1,8 +1,9 @@
 backend:
-name: git-gateway
+name: github
 repo: piiseli/oppia
+branch: master
 
-media_folder: media_folder
+media_folder: media
 
 collections:
 - name: post
